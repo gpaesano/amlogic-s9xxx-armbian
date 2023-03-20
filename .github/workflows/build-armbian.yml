@@ -63,6 +63,7 @@ on:
           - vplus
           - tqc-a01
           - tanix-tx6
+          - t9
       minimal_image:
         description: "Build a minimal image."
         required: false
